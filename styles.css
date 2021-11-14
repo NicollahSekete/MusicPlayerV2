@@ -19,6 +19,7 @@
   --lightbshadow: rgba(0,0,0,0.15);
   --lightblue: #ADD8E6;
   --lavender:#E6E6FA;
+  --lightseagreen: #20B2AA;
 }
 body{
   display: flex;
